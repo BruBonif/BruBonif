@@ -1,4 +1,4 @@
-- 👋 Hi, Bruno!
+- 👋 Hi, i’m Bruno!
 - 👀 I’m interested in make projects and learning programming
 - 🌱 I’m currently learning Python by myself and studying Software Engineer
 - 📫 My email is:
