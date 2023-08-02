@@ -1,7 +1,6 @@
-![MasterHead](https://makeagif.com/gif/relax-music-the-most-amazing-space-nebulas-2-hours-sleep-meditation-1080p-hd-V8hSAt)]
 <h1 align="center">Hi 👋, I'm Bruno Bonifacini</h1>
 <h3 align="center">I love low-level programming, IA and games!</h3>
-img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.html"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonifacini&label=Profile%20views&color=0e75b6&style=flat" alt="bonifacini" /> </p>
 
@@ -20,3 +19,6 @@ img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/coding-ani
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bonifacini&show_icons=true&locale=en&layout=compact" alt="bonifacini" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bonifacini&show_icons=true&locale=en" alt="bonifacini" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bonifacini&" alt="bonifacini" /></p>
+
